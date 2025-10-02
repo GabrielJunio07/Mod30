@@ -10,3 +10,4 @@ public class VendaDAOTest {
         assertTrue(true); // Exemplo de teste simples
     }
 }
+ 
